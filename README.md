@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AdedamolaXL. 
 - 👀 Currently interested in ethereum development: both at the core level and application level.
-- 🌱 Currently learning web3 development using these languages: Typescript/Javascript & Solidity
+- 🌱 Learning web3 development using these languages: Typescript/Javascript & Solidity
 - 💞️ I take part in hackathons often, so am always looking to collaborate!
 - 📫 You can find me here Twitter: [@cyberroninn](https://twitter.com/cyberroninn); and here Discord: [AdedamolaXL#7215](https://discord.com/AdedamolaXL#7215)
 
